@@ -1,8 +1,8 @@
 {
-  "name": "icocteens",
+  "name": "cyrus",
   "version": "1.0.0",
   "description": "discord bot",
-  "main": "ICOCteen.ts",
+  "main": "Cyrus.ts",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "autoprefixer": "^10.1.0",
